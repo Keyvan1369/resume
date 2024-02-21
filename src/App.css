@@ -1,0 +1,64 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Didact Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: yellow;
+}
+.icons-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.cards-wrapper {
+  width: 75%;
+  border-radius: 5px;
+  background-color: rgb(110, 174, 190);
+  border-radius: 5px 5px 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.icons {
+  margin: 10px;
+}
+
+.card {
+  width: 80%;
+  border-radius: 5px;
+  background-color: #b5c0c4;
+  color: rgb(77, 110, 139);
+  margin: 5px;
+}
+
+
+.paragraphs {
+  font-size: 40;
+}
+.firs{
+  background-color: burlywood;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}

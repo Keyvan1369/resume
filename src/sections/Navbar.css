@@ -1,0 +1,32 @@
+.navbar {
+  overflow: hidden;
+
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar li {
+  float: right;
+  display: block;
+  
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar li:hover {
+  text-decoration: underline;
+}
+#color {
+  float: left;
+  font-size: x-small;
+  margin-left:0;
+  margin-right: 0;
+}
+#colorImage{
+  max-width: 2%;
+  display: block;
+  margin-left:0;
+  margin-right: 0;
+}

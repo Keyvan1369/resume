@@ -1,0 +1,31 @@
+.down {
+ 
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  
+  margin-bottom: -34px;
+ 
+  /* position: fixed;
+    bottom: 10px;
+    left: 50px; */
+  transform: translateY(-130%);
+}
+.down img{
+    width: 30px; 
+    height: auto;
+  }
+p {
+  padding-right: 40;
+  padding-left: 40;
+}
+h3 {
+  font-size: 3rem;
+}
+.title1 {
+  color: aqua;
+}
+.first {
+  background-color: rgba(88, 112, 107, 0.918);
+}

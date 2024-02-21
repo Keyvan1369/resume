@@ -1,0 +1,12 @@
+#color {
+    float: left;
+    font-size: x-small;
+    margin-left:0;
+    margin-right: 0;
+  }
+#colorImage{
+    max-width: 2%;
+    display: block;
+    margin-left:0;
+    margin-right: 0;
+  }

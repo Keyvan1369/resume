@@ -1,0 +1,76 @@
+{
+  "title": "Hello! I'm Keyvan",
+  "subtitle": "Full stack Developer",
+  "Links": {
+    "github": "https://github.com/Keyvan1369",
+    "Linkedin": "https://www.linkedin.com/in/keyvan-hojabr-045ba0174/"
+  },
+  "section": [
+    {
+      "title": "About",
+      "Items": [
+        {
+          "type": "p",
+          "content": "Hello! I'm a full-stack developer who embarked on the exciting journey of programming in 2022. I've gained diverse experiences, including participating in courses at wbscoding in Berlin and working as a general programmer at the Technical and Vocational Organization of Iran.",
+
+          "contentSecond":"Furthermore, on the path of advanced learning, I attended the Faravine Bootcamp in Mashhad, Iran, and took part in various offline courses, such as specialized training in React and SQL Server at Maktabkhane Tehran.",
+          "contentThird":"My boundless passion for coding and a perpetual eagerness to learn drive me to continually enhance my skills. Currently navigating through a path filled with challenges and exciting projects, I aspire to be a pioneering and creative programmer in the dynamic world of technology. I am thrilled to share my experiences with the vibrant community of developers and enthusiasts"
+          
+          
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "Items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/js.jpg",
+            "title": "Javascript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/HTML.png",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/css.png",
+            "title": "css"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/nodejsn.png",
+            "title": "nodejs"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/Mongo.jpg",
+            "title": "MongoDB"
+          }
+        }
+      ]
+    }
+  ],
+  "icons":{
+    "down":"images/down.png"
+  }
+
+}
+
